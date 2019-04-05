@@ -1,0 +1,101 @@
+html
+{
+    background-color: darkred;
+}
+
+body {
+    background-color: gainsboro;
+    width: 960px;
+    height: auto;
+    margin: auto;
+    border: 4px solid #333;
+}
+
+.intro {
+    font-size: 20px;
+    text-align: center;
+}
+
+.bordure1 {
+    border: 2px blue ridge;
+    width:100px;
+    background-color: dodgerblue;
+    border-radius: 10px;
+}
+
+.bordure2 {
+    border: 2px blue ridge;
+    width:100px;
+    background-color: dodgerblue;
+    border-radius: 10px;
+}
+
+.div1 {
+    border: 4px solid #333;
+    background-color: white;
+}
+
+.div2 {
+    background-color:gainsboro;
+    border: 4px solid #333;
+    height: auto;
+}
+
+.A1 {
+    border: 5px solid red;
+    margin: 2px;
+    height: auto;
+}
+.acer{
+    width: 140px;
+    height: 140px;
+}
+
+.A2 {
+    border: 2px solid black;
+    margin: 2px;
+    height: 190px;
+}
+.win{
+    width: 140px;
+    height: 140px;
+}
+
+.A3 {
+    border: 2px solid black;
+    margin: 2px;
+    height: 190px;
+}
+.diplomatico {
+    width: 140px;
+    height: 140px;
+}
+.A4 {
+    border: 2px solid black;
+    margin: 2px;
+    height: 190px;
+}
+.kebab {
+    width: 140px;
+    height: 140px;
+}
+
+p {
+    text-align: center;
+
+}
+
+#footer
+{
+    position: relative;
+    margin-top: auto; /* negative value of footer height */
+    margin-right: center;
+    height: auto;
+    clear: both;
+    width: 100%;
+    border-style: solid;
+}
+
+.bienvenue{
+    display: inline-block;
+}
